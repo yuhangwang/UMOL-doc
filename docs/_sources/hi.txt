@@ -1,8 +1,0 @@
-Section Hi!
-===============
-
-.. jl:function:: f(a)
-
-.. jl:autofile:: src/hi.jl
-
-
