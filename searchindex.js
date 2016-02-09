@@ -1,0 +1,1 @@
+Search.setIndex({envversion:47,filenames:["hi","index"],objects:{},objnames:{},objtypes:{},terms:{"function":0,add:0,argument:0,content:1,first:0,index:1,modul:1,page:1,paramet:0,search:1,second:0,symbol:0,two:0},titles:["Section Hi!","Welcome to UMOL&#8217;s documentation!"],titleterms:{document:1,indic:1,section:0,tabl:1,umol:1,welcom:1}})
